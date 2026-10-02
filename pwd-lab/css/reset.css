@@ -1,0 +1,47 @@
+/* Mengatur box-sizing untuk seluruh elemen */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Pengaturan dasar HTML */
+html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+}
+
+/* Pengaturan dasar body */
+body {
+    min-height: 100vh;
+    line-height: 1.6;
+    text-rendering: optimizeSpeed;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Proteksi overflow media responsif */
+img,
+picture,
+video,
+canvas,
+svg {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Menghapus bullet pada daftar */
+ul,
+ol {
+    list-style: none;
+}
+
+/* Menyamakan font elemen formulir */
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
