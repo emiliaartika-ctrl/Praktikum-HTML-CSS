@@ -1,5 +1,5 @@
-| ID Uji | Fitur / Komponen | Lebar Viewport Pengujian | Ekspektasi Tampilan | Hasil Pengujian Aktual | Status |
-|--------|------------------|-------------------------|---------------------|------------------------|--------|
+| ID Uji | Fitur / Komponen | Lebar Viewport Pengujian | Ekspektasi Tampilan | Hasil Pengujian Aktual | Status | Bukti Tangkap Layar |
+|--------|------------------|-------------------------|---------------------|------------------------|--------|------------------- |
 | TC-01 | Navigasi Menu | Mobile (360px–480px) | Menu membungkus dengan rapi, tidak terpotong, dan teks terbaca proporsional. | Sesuai ekspektasi | Pass | https://drive.google.com/drive/folders/1GVyx4OCbK5Szp9dCtH0Vcs8HPV0QWr0S?usp=sharing |
 | TC-02 | Hero Section | Breakpoint Tablet (768px) | Susunan berubah dari satu kolom vertikal menjadi tata letak seimbang. | Sesuai ekspektasi | Pass | https://drive.google.com/drive/folders/1GVyx4OCbK5Szp9dCtH0Vcs8HPV0QWr0S?usp=sharing |
 | TC-03 | Grid Katalog | Resize Dinamis (360px–1920px) | Kolom bertambah otomatis secara fleksibel tanpa horizontal scrollbar. | Sesuai ekspektasi | Pass | https://drive.google.com/drive/folders/1GVyx4OCbK5Szp9dCtH0Vcs8HPV0QWr0S?usp=sharing |
